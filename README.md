@@ -12,6 +12,11 @@ Use the time animation controls to easily explore data by time blocks. Click and
 ![preview-edit](/resources/time_animation.png)
 
 # Install
+## Kibana 5.0.1
+```bash
+./bin/kibana-plugin install https://github.com/nreese/kibana-time-plugin/releases/download/v5.0.1/kibana.zip
+```
+
 ## Kibana 5.0.0
 ```bash
 ./bin/kibana-plugin install https://github.com/nreese/kibana-time-plugin/releases/download/v5.0.0/kibana.zip
